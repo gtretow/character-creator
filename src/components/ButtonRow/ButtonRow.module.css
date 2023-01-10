@@ -1,2 +1,10 @@
 .buttonRow {
-}
+    white-space: nowrap;
+    overflow: auto;
+    margin-left: -22px;
+    margin-right: -22px;
+    margin-bottom: -22px;
+    padding: 22px;
+    scrollbar-width: thin;
+  }
+  
